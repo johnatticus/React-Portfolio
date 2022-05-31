@@ -1,0 +1,33 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "homepage": "https://johnatticus.github.io/React-Portfolio",
+  "description": "Personal portfolio created using React",
+  "main": "npm start",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+
+    "type": "git",
+    "url": "git+https://github.com/johnatticus/React-Portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "johnatticus"
+  ],
+  "author": "John Atticus Hysong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnatticus/React-Portfolio/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
