@@ -1,15 +1,13 @@
 nav {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
     padding: 10px;
     font-family: monospace;
-    background-color: #313131;
+    background-color: #000000;
     color: #d8d8d8;
-    font-family: monospace;
-    text-decoration: none;
-    
+    font-family: monospace;    
 }
 
 nav a {
