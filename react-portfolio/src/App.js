@@ -3,12 +3,14 @@ import React from 'react';
 import './App.css';
 import Nav from './components/Nav/Nav';
 import About from './components/About/About';
+import Projects from './components/Projects/Projects';
 
 export default function App() {
   return (
     <div>
       <Nav />
       <About />
+      <Projects />
     </div>
   );
 }

@@ -1,7 +1,7 @@
 section {
     display: flex;
     flex-direction: row;
-    /* justify-content: left; */
+    justify-content: left;
     padding: 5px;
 }
 
